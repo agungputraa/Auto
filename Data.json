@@ -1,19 +1,19 @@
 {
     "name": "Data.json",
     "path": "Data.json",
-    "sha": "fe51488c7066f6687ef680d6bfaa4f7768ef205c",
-    "size": 3,
+    "sha": "028fd363514bf1ea52c8f9bf89b0a5fdec3060ff",
+    "size": 958,
     "url": "https:\/\/api.github.com\/repos\/agungputraa\/Auto\/contents\/Data.json?ref=main",
     "html_url": "https:\/\/github.com\/agungputraa\/Auto\/blob\/main\/Data.json",
-    "git_url": "https:\/\/api.github.com\/repos\/agungputraa\/Auto\/git\/blobs\/fe51488c7066f6687ef680d6bfaa4f7768ef205c",
+    "git_url": "https:\/\/api.github.com\/repos\/agungputraa\/Auto\/git\/blobs\/028fd363514bf1ea52c8f9bf89b0a5fdec3060ff",
     "download_url": "https:\/\/raw.githubusercontent.com\/agungputraa\/Auto\/main\/Data.json",
     "type": "file",
-    "content": "W10K\n",
+    "content": "ewogICAgIm5hbWUiOiAiRGF0YS5qc29uIiwKICAgICJwYXRoIjogIkRhdGEu\nanNvbiIsCiAgICAic2hhIjogImZlNTE0ODhjNzA2NmY2Njg3ZWY2ODBkNmJm\nYWE0Zjc3NjhlZjIwNWMiLAogICAgInNpemUiOiAzLAogICAgInVybCI6ICJo\ndHRwczpcL1wvYXBpLmdpdGh1Yi5jb21cL3JlcG9zXC9hZ3VuZ3B1dHJhYVwv\nQXV0b1wvY29udGVudHNcL0RhdGEuanNvbj9yZWY9bWFpbiIsCiAgICAiaHRt\nbF91cmwiOiAiaHR0cHM6XC9cL2dpdGh1Yi5jb21cL2FndW5ncHV0cmFhXC9B\ndXRvXC9ibG9iXC9tYWluXC9EYXRhLmpzb24iLAogICAgImdpdF91cmwiOiAi\naHR0cHM6XC9cL2FwaS5naXRodWIuY29tXC9yZXBvc1wvYWd1bmdwdXRyYWFc\nL0F1dG9cL2dpdFwvYmxvYnNcL2ZlNTE0ODhjNzA2NmY2Njg3ZWY2ODBkNmJm\nYWE0Zjc3NjhlZjIwNWMiLAogICAgImRvd25sb2FkX3VybCI6ICJodHRwczpc\nL1wvcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbVwvYWd1bmdwdXRyYWFcL0F1\ndG9cL21haW5cL0RhdGEuanNvbiIsCiAgICAidHlwZSI6ICJmaWxlIiwKICAg\nICJjb250ZW50IjogIlcxMEtcbiIsCiAgICAiZW5jb2RpbmciOiAiYmFzZTY0\nIiwKICAgICJfbGlua3MiOiB7CiAgICAgICAgInNlbGYiOiAiaHR0cHM6XC9c\nL2FwaS5naXRodWIuY29tXC9yZXBvc1wvYWd1bmdwdXRyYWFcL0F1dG9cL2Nv\nbnRlbnRzXC9EYXRhLmpzb24\/cmVmPW1haW4iLAogICAgICAgICJnaXQiOiAi\naHR0cHM6XC9cL2FwaS5naXRodWIuY29tXC9yZXBvc1wvYWd1bmdwdXRyYWFc\nL0F1dG9cL2dpdFwvYmxvYnNcL2ZlNTE0ODhjNzA2NmY2Njg3ZWY2ODBkNmJm\nYWE0Zjc3NjhlZjIwNWMiLAogICAgICAgICJodG1sIjogImh0dHBzOlwvXC9n\naXRodWIuY29tXC9hZ3VuZ3B1dHJhYVwvQXV0b1wvYmxvYlwvbWFpblwvRGF0\nYS5qc29uIgogICAgfSwKICAgICJrOGMzalgiOiAiaHR0cHM6XC9cL3d3dy5h\nZ3VuZ2Rldi5pZCIKfQ==\n",
     "encoding": "base64",
     "_links": {
         "self": "https:\/\/api.github.com\/repos\/agungputraa\/Auto\/contents\/Data.json?ref=main",
-        "git": "https:\/\/api.github.com\/repos\/agungputraa\/Auto\/git\/blobs\/fe51488c7066f6687ef680d6bfaa4f7768ef205c",
+        "git": "https:\/\/api.github.com\/repos\/agungputraa\/Auto\/git\/blobs\/028fd363514bf1ea52c8f9bf89b0a5fdec3060ff",
         "html": "https:\/\/github.com\/agungputraa\/Auto\/blob\/main\/Data.json"
     },
-    "k8c3jX": "https:\/\/www.agungdev.id"
+    "4Y346J": "https:\/\/www.wandev.com"
 }
