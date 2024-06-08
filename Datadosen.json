@@ -1,4 +1,26 @@
 [
-  { "id" : "1234", "foto" : "https://pg-admin.bayarind.id/assets/images/post/thumb_1690969977_64ca27796495b.jpg", "namaDosen" : " I gusti Agung Eka Putra Wanda", "information" : "Ini adalah infromation"},
-  {}
+  {
+    "id": "1234",
+    "foto": "https://pg-admin.bayarind.id/assets/images/post/thumb_1690969977_64ca27796495b.jpg",
+    "namaDosen": "I gusti Agung Eka Putra Wanda",
+    "information": "Ini adalah infromation"
+  },
+  {
+    "id": "5678",
+    "foto": "https://example.com/image1.jpg",
+    "namaDosen": "John Doe",
+    "information": "Informasi tentang John Doe"
+  },
+  {
+    "id": "9012",
+    "foto": "https://example.com/image2.jpg",
+    "namaDosen": "Jane Doe",
+    "information": "Informasi tentang Jane Doe"
+  },
+  {
+    "id": "3456",
+    "foto": "https://example.com/image3.jpg",
+    "namaDosen": "Bob Smith",
+    "information": "Informasi tentang Bob Smith"
+  }
 ]
